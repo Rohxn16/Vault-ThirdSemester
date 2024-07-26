@@ -1,4 +1,5 @@
 <hr>
+#computerscience  #infix 
 # Infix Expressions:
 - In infix expressions, the operators are placed between the operands. This is the term generally used in everyday mathematics. 2 + 3 is an example of infix expression.
 - Parenthesis are used in infix notation to specify the order of the operation, i.e. (2 + 3) * 5 shows that the sum is to be calculated first and then the product is to be operated on the result.
@@ -12,7 +13,8 @@ It requires additional processing to handle the precedence of the parenthesis an
 | Natural to the reader, and <br>easy to understand.                              | Requires parenthesis to specify <br>the order of operation. |
 | Widely used and supported by<br>most programming languages and <br>calculators. | Can be difficult to parse and<br>evaluate efficiently.      |
 <hr>
-# Prefix Expression (Polish Notation):
+# Prefix Expression (Polish Notation): 
+#prefix
 In this mathematical notation, the operator precedes the operands. +ab is an example of Polish notation which can be translated to a + b.
 #### Evaluating Prefix expressions:
 Evaluating prefix expressions can be useful in certain scenarios, such as when dealing with expressions that have a large number of nested parentheses or when using a stack-based programming language.
@@ -65,6 +67,7 @@ double evaluatePrefix(string expression){
 <hr>
 
 # Postfix Expression (Reverse Polish):
+#postfix
 Also known as the reverse polish notation, postfix expression is the exact opposite of the polish expression, where the operator follows the operands. The infix notation 1 + 2 can be translated to 1 2 + as postfix notation.
 
 #### Evaluating Postfix expressions:
@@ -111,3 +114,6 @@ double evaluatePrefix(string expression){
 <hr>
 
 - Link for further reading [GFG](https://www.geeksforgeeks.org/infix-postfix-prefix-notation/#infix-expressions)
+<hr>
+
+## Practice Questions on The Topic:
