@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7182117d04345e",
+        "id": "cfb23f841ec925b9",
         "type": "tabs",
         "children": [
           {
-            "id": "812aa7e54fe87c2a",
+            "id": "72cadce998e699c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#datarepresentation",
+                "query": "tag:#graph",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,18 +140,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "812aa7e54fe87c2a",
+  "active": "72cadce998e699c5",
   "lastOpenFiles": [
+    "Discrete Mathematics/Graph Theory.md",
+    "Computer Organization/NPTEL/Lec-1.md",
+    "Computer Organization/NPTEL",
+    "Untitled",
     "DSA/MathematicalRepresentation/Data Structures and Algorithms.md",
+    "Discrete Mathematics",
+    "Templates/Daily Notion Template.md",
+    "Daily/27-07-2024.md",
+    "Untitled.canvas",
     "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
     "DSA/MathematicalRepresentation",
     "Computer Organization",
-    "Untitled.canvas",
     "Daily/26-07-2024.md",
     "DSA",
     "Templates/Notes Template.md",
     "Daily Notes",
-    "Templates/Daily Notion Template.md",
     "Daily",
     "Templates/26-07-2024.md",
     "Welcome.md",
