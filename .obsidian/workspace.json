@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb23f841ec925b9",
+        "id": "5723f95246fba91c",
         "type": "tabs",
         "children": [
           {
-            "id": "72cadce998e699c5",
+            "id": "af1337c8257b78e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -61,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "b72abf31e361f195",
@@ -123,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,8 +139,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72cadce998e699c5",
+  "active": "2a0296051ba2ef7c",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Discrete Mathematics/Graph Theory.md",
     "Computer Organization/NPTEL/Lec-1.md",
     "Computer Organization/NPTEL",
@@ -150,7 +150,6 @@
     "Discrete Mathematics",
     "Templates/Daily Notion Template.md",
     "Daily/27-07-2024.md",
-    "Untitled.canvas",
     "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
     "DSA/MathematicalRepresentation",
     "Computer Organization",
