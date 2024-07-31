@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
+                "file": "Computer Organization/NPTEL/Lec-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
+                "file": "Computer Organization/NPTEL/Lec-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
+                "file": "Computer Organization/NPTEL/Lec-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Mathematics/MyNotes/Set Theory/01 Set.md"
+                "file": "Computer Organization/NPTEL/Lec-1.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "0e038c2f83be8f1e",
   "lastOpenFiles": [
-    "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
     "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
+    "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
     "DSA/MathematicalRepresentation/Data Structures and Algorithms.md",
     "Discrete Mathematics/MyNotes/Graph Theory/01 Graph Theory.md",
     "Discrete Mathematics/MyNotes/Set Theory",
