@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5723f95246fba91c",
+        "id": "8c3ed5a3d4f39f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "af1337c8257b78e6",
+            "id": "0e038c2f83be8f1e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 270.5026054382324
   },
   "right": {
     "id": "b72abf31e361f195",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Discrete Mathematics/MyNotes/Set Theory/01 Set.md"
+              }
             }
           }
         ],
@@ -136,30 +144,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a0296051ba2ef7c",
+  "active": "0e038c2f83be8f1e",
   "lastOpenFiles": [
+    "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
+    "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
+    "DSA/MathematicalRepresentation/Data Structures and Algorithms.md",
+    "Discrete Mathematics/MyNotes/Graph Theory/01 Graph Theory.md",
+    "Discrete Mathematics/MyNotes/Set Theory",
+    "Discrete Mathematics/MyNotes/Graph Theory",
+    "Discrete Mathematics/MyNotes",
+    "Discrete Mathematics/Classwork/Graph Theory/01 31.7.24.md",
+    "Discrete Mathematics/Classwork/Set Theory",
+    "Discrete Mathematics/Classwork/Graph Theory/1.8.24.md",
+    "Discrete Mathematics/Classwork/Graph Theory",
+    "Discrete Mathematics/Classwork",
     "Untitled.canvas",
-    "Discrete Mathematics/Graph Theory.md",
     "Computer Organization/NPTEL/Lec-1.md",
     "Computer Organization/NPTEL",
     "Untitled",
-    "DSA/MathematicalRepresentation/Data Structures and Algorithms.md",
     "Discrete Mathematics",
     "Templates/Daily Notion Template.md",
     "Daily/27-07-2024.md",
-    "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
     "DSA/MathematicalRepresentation",
-    "Computer Organization",
     "Daily/26-07-2024.md",
-    "DSA",
     "Templates/Notes Template.md",
-    "Daily Notes",
-    "Daily",
     "Templates/26-07-2024.md",
-    "Welcome.md",
-    "Templates"
+    "Welcome.md"
   ]
 }
