@@ -1,3 +1,4 @@
+#depriciation
 ### Q. A machine costing rupees 5 lakh purchased on  1.6.22 . Cost of installation is Rupees 40,000 on 1.10.2023, a second machine costed rupees 4 lakh was purchased and the carrying cost was Rupees 10,000. Calculate the amount of depreciation on 31st march 2025. The rate of depreciation being 10% p.a.
 
 ### Ans.
