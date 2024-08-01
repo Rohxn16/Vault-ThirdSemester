@@ -1,4 +1,3 @@
-
 ## Basic Components of a Computer System:
 
 - **Processor**: Generally consists of **Data path** circuits and **Control** circuits.
@@ -12,7 +11,7 @@
 | -> Eg: If a multiplier is present in the system,<br>or maybe a set of instructions, the internal<br>implementations are not necessary from <br>the user's POV . | -> But it is important from the<br>POV of the designer. |
 | -> Study of system from software POV                                                                                                                            | -> Study of system from hardware POV                    |
 
-### Application Spectrum of Computer Organisation:
+### Application Spectrum of Computer Organization:
 
 Major viewpoints of CO:
 - Control : Electrical Engineer viewpoint-> (Special Purpose)-> ROM-> Hardware Oriented.
