@@ -1,1 +1,0 @@
-Gate: A device th

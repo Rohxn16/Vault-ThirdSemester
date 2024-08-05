@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADE/Classwork/01 Gates.md",
+                "file": "ADE/MyNotes/01 Introduction to Digital Electronics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5072784423828
+    "width": 287.5072784423828,
+    "collapsed": true
   },
   "right": {
     "id": "b72abf31e361f195",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADE/Classwork/01 Gates.md",
+                "file": "ADE/MyNotes/01 Introduction to Digital Electronics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADE/Classwork/01 Gates.md",
+                "file": "ADE/MyNotes/01 Introduction to Digital Electronics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADE/Classwork/01 Gates.md"
+                "file": "ADE/MyNotes/01 Introduction to Digital Electronics.md"
               }
             }
           }
@@ -150,25 +151,27 @@
   },
   "active": "0e038c2f83be8f1e",
   "lastOpenFiles": [
-    "Economics/Classwork/01 Depreciation.md",
     "ADE/Classwork/01 Gates.md",
+    "ADE/MyNotes/01 Introduction to Digital Electronics.md",
+    "Economics/Classwork/01 Depreciation.md",
+    "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
+    "DSA/MathematicalRepresentation/Data Structures and Algorithms.md",
+    "Discrete Mathematics/MyNotes/Graph Theory/01 Graph Theory.md",
+    "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
+    "ADE/MyNotes",
+    "ADE/Untitled.md",
     "ADE/Classwork",
     "ADE",
     "Computer Organization/NPTEL/Lec-1.md",
     "Discrete Mathematics/Classwork/Graph Theory/01 Representation of Graphs.md",
     "Economics/Classwork",
     "Economics",
-    "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
-    "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
-    "DSA/MathematicalRepresentation/Data Structures and Algorithms.md",
-    "Discrete Mathematics/MyNotes/Graph Theory/01 Graph Theory.md",
     "Discrete Mathematics/MyNotes/Set Theory",
     "Discrete Mathematics/MyNotes/Graph Theory",
     "Discrete Mathematics/MyNotes",
     "Discrete Mathematics/Classwork/Set Theory",
     "Discrete Mathematics/Classwork/Graph Theory/1.8.24.md",
     "Discrete Mathematics/Classwork/Graph Theory",
-    "Discrete Mathematics/Classwork",
     "Untitled.canvas",
     "Templates/Daily Notion Template.md",
     "Daily/27-07-2024.md",
