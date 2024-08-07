@@ -18,7 +18,9 @@ The complement of a graph is defined as a simple graph with the same vertex set 
 A graph which can be drawn in the plane, so that it's edges do not cross each other is called a Planar Graph.
 **Edges can be represented as curves, so to turn a graph into planar, we can represent required edge as a curve.**
 
+#representation #graph 
 ### Adjacency Matrix of a Graph:
+#adjacency-matrix
 ![adj matrix](https://media.geeksforgeeks.org/wp-content/uploads/20230727130331/Undirected_to_Adjacency_matrix.png)
 
 #### General Representation:
