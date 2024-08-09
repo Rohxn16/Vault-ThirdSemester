@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cee7fa9b54f9885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete Mathematics/Classwork/Graph Theory/02 Important theorems on Graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f275b1b2732ac48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Mathematics/Classwork/Graph Theory/01 Representation of Graphs.md",
+                "file": "ADE/MyNotes/01 Number Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Mathematics/Classwork/Graph Theory/02 Important theorems on Graphs.md",
+                "file": "ADE/MyNotes/01 Number Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Mathematics/Classwork/Graph Theory/02 Important theorems on Graphs.md",
+                "file": "ADE/MyNotes/01 Number Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Mathematics/Classwork/Graph Theory/02 Important theorems on Graphs.md"
+                "file": "ADE/MyNotes/01 Number Systems.md"
               }
             }
           }
@@ -160,14 +148,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cee7fa9b54f9885",
+  "active": "6f275b1b2732ac48",
   "lastOpenFiles": [
     "Discrete Mathematics/Classwork/Graph Theory/01 Representation of Graphs.md",
+    "ADE/MyNotes/NPTEL/02 Transistor as Switch.md",
+    "ADE/MyNotes/NPTEL/01 Introduction to Digital Electronics.md",
+    "Computer Organization/NPTEL/Lec-1.md",
     "Discrete Mathematics/Classwork/Graph Theory/02 Important theorems on Graphs.md",
     "Discrete Mathematics/MyNotes/Graph Theory/01 Graph Theory.md",
-    "ADE/MyNotes/Personal/01 Number Systems.md",
+    "ADE/MyNotes/01 Number Systems.md",
     "ADE/Classwork/01 Gates.md",
-    "ADE/MyNotes/NPTEL/01 Introduction to Digital Electronics.md",
     "ADE/MyNotes/Personal",
     "ADE/MyNotes/NPTEL",
     "ADE/Untitled",
@@ -179,7 +169,6 @@
     "ADE/Untitled.md",
     "ADE/Classwork",
     "ADE",
-    "Computer Organization/NPTEL/Lec-1.md",
     "Economics/Classwork",
     "Economics",
     "Discrete Mathematics/MyNotes/Set Theory",

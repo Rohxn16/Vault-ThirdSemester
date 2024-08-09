@@ -10,4 +10,3 @@
 ### Representation of Different Number Systems:
 - 1234 = $1 \times 10 ^3 + 1 \times 10 ^2 + 1 \times 10 ^1 + 1 \times 10 ^0$  
 - 1101 = $2 \times 10 ^3 + 2 \times 10 ^2 + 2 \times 10 ^0$ 
-- 
