@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADE/MyNotes/01 Number Systems.md",
+                "file": "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5072784423828
+    "width": 287.5072784423828,
+    "collapsed": true
   },
   "right": {
     "id": "b72abf31e361f195",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADE/MyNotes/01 Number Systems.md",
+                "file": "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADE/MyNotes/01 Number Systems.md",
+                "file": "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADE/MyNotes/01 Number Systems.md"
+                "file": "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md"
               }
             }
           }
@@ -150,13 +151,16 @@
   },
   "active": "6f275b1b2732ac48",
   "lastOpenFiles": [
+    "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md",
+    "DSA/TopicwiseProblemsolving/Recursion",
+    "DSA/TopicwiseProblemsolving",
+    "ADE/MyNotes/01 Number Systems.md",
     "Discrete Mathematics/Classwork/Graph Theory/01 Representation of Graphs.md",
     "ADE/MyNotes/NPTEL/02 Transistor as Switch.md",
     "ADE/MyNotes/NPTEL/01 Introduction to Digital Electronics.md",
     "Computer Organization/NPTEL/Lec-1.md",
     "Discrete Mathematics/Classwork/Graph Theory/02 Important theorems on Graphs.md",
     "Discrete Mathematics/MyNotes/Graph Theory/01 Graph Theory.md",
-    "ADE/MyNotes/01 Number Systems.md",
     "ADE/Classwork/01 Gates.md",
     "ADE/MyNotes/Personal",
     "ADE/MyNotes/NPTEL",
@@ -171,8 +175,6 @@
     "ADE",
     "Economics/Classwork",
     "Economics",
-    "Discrete Mathematics/MyNotes/Set Theory",
-    "Discrete Mathematics/MyNotes/Graph Theory",
     "Discrete Mathematics/Classwork/Graph Theory/1.8.24.md",
     "Untitled.canvas",
     "Templates/Daily Notion Template.md",
