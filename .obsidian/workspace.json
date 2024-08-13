@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "495658c5acb1ea58",
+        "id": "d86f6adaec36ef95",
         "type": "tabs",
         "children": [
           {
-            "id": "6f275b1b2732ac48",
+            "id": "72450d7a2443fe24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md",
+                "file": "Computer Organization/Classwork/01.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5072784423828,
-    "collapsed": true
+    "width": 287.5072784423828
   },
   "right": {
     "id": "b72abf31e361f195",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md",
+                "file": "Computer Organization/Classwork/01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md",
+                "file": "Computer Organization/Classwork/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md"
+                "file": "Computer Organization/Classwork/01.md"
               }
             }
           }
@@ -149,32 +148,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f275b1b2732ac48",
+  "active": "72450d7a2443fe24",
   "lastOpenFiles": [
-    "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md",
-    "DSA/TopicwiseProblemsolving/Recursion",
-    "DSA/TopicwiseProblemsolving",
+    "gH1ON 1.png",
+    "gH1ON.png",
+    "Pasted image 20240813142231.png",
+    "CPUblock-660x495.jpg",
+    "Computer Organization/NPTEL/Lec-1.md",
+    "Computer Organization/Classwork/01.md",
+    "Computer Organization/Classwork",
+    "Machine Learning Resources/Project with Documentation/Twitter Sentiment Analysis.md",
+    "Untitled",
+    "GameStudy/Creating a twisted main character.md",
+    "GameStudy",
+    "Untitled 12",
+    "Untitled 11",
+    "Untitled 10",
+    "Untitled 9",
+    "Untitled 8",
+    "Untitled 7",
+    "Untitled 6",
     "ADE/MyNotes/01 Number Systems.md",
+    "Discrete Mathematics/Classwork/Graph Theory/02 Important theorems on Graphs.md",
+    "DSA/MathematicalRepresentation/Data Structures and Algorithms.md",
+    "Machine Learning Resources/Links and Docs.md",
+    "DSA/TopicwiseProblemsolving/Recursion/Finding exponent problem..md",
     "Discrete Mathematics/Classwork/Graph Theory/01 Representation of Graphs.md",
     "ADE/MyNotes/NPTEL/02 Transistor as Switch.md",
     "ADE/MyNotes/NPTEL/01 Introduction to Digital Electronics.md",
-    "Computer Organization/NPTEL/Lec-1.md",
-    "Discrete Mathematics/Classwork/Graph Theory/02 Important theorems on Graphs.md",
     "Discrete Mathematics/MyNotes/Graph Theory/01 Graph Theory.md",
     "ADE/Classwork/01 Gates.md",
-    "ADE/MyNotes/Personal",
-    "ADE/MyNotes/NPTEL",
-    "ADE/Untitled",
     "Economics/Classwork/01 Depreciation.md",
     "DSA/MathematicalRepresentation/Infix - Post-fix - Prefix.md",
-    "DSA/MathematicalRepresentation/Data Structures and Algorithms.md",
     "Discrete Mathematics/MyNotes/Set Theory/01 Set.md",
-    "ADE/MyNotes",
     "ADE/Untitled.md",
-    "ADE/Classwork",
-    "ADE",
-    "Economics/Classwork",
-    "Economics",
     "Discrete Mathematics/Classwork/Graph Theory/1.8.24.md",
     "Untitled.canvas",
     "Templates/Daily Notion Template.md",
